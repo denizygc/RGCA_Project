@@ -1,0 +1,10 @@
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\bin\Debug\RGCA.exe.config
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\bin\Debug\RGCA.exe
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\bin\Debug\RGCA.pdb
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\obj\Debug\RGCA.csprojAssemblyReference.cache
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\obj\Debug\RGCA.Form1.resources
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\obj\Debug\RGCA.Properties.Resources.resources
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\obj\Debug\RGCA.csproj.GenerateResource.cache
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\obj\Debug\RGCA.exe
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\obj\Debug\RGCA.pdb
+C:\Users\Deniz\Desktop\repos\01_SqlConnection_Merhaba\RGCA\obj\Debug\RGCA.AnaForm.resources
