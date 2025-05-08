@@ -7,14 +7,14 @@
 The **Recycling Garbage Collector Application (RGCA)** is a Java-based project designed to **optimize the collection and management of recyclable waste** within a university campus. This includes identifying optimal garbage bin placements, tracking recyclable materials (such as plastic, paper, glass, and metal), and managing staff assignments for waste collection and transfer points.
 
 This project not only promotes environmental sustainability but also incorporates elements of optimization and resource efficiency through algorithmic logic.
+
 ---
 
 ### 📚 Target Audience
 
 This project is developed as part of a **university-level Java course** and is intended for academic evaluation. It demonstrates an integration of environmental awareness with programming and software design skills.
 
----
-
+--
 ### 🎯 Project Goals
 
 * Minimize the environmental impact of improperly managed waste.
