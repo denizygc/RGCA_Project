@@ -1,18 +1,79 @@
-## RGCA_Project
+---
 
-# Recycling Garbage Collector Application (RGCA)
-# RECYCLING GARBAGE COLLECTOR APPLICATION
-  This project is aimed at optimizing the collection of materials suitable for recycling in universities. This type of garbage types, the location of the garbage cans, the names of the employees involved in the waste bins and discharge points were optimized.
-  As a result of the social and economic activities of people, all kinds of substances that have expired and become harmful to nature are called waste. Materials such as cardboard, glass, metal, plastic can be classified as waste. Recycling of waste is only possible through recycling. Recycling is the recycling of these wastes, which have the possibility of re-use, to physical or chemical processes and converting them to a second raw material. The purpose of recycling is to prevent excessive use of resources, to ensure the separation of wastes in their sources, to reduce the amount of waste garbage.
-  Recycling of materials such as paper, cardboard, glass, plastic and metal will prevent the depletion of natural resources. Recycling, which contributes greatly to the economy of the country, will reduce the amount of foreign currency paid to imported scrap and will significantly save energy use. Recycling of used paper reduces air pollution by 74-94%, water pollution by 35% and water use by 45%. Adding 1 ton of waste paper to the pulp prevents 8 trees from being cut.
-  Recycling is a very efficient economic investment in the long run. Human beings are faced with many economic problems in the future as a result of the depletion of raw materials and natural resources. On the other hand, many recycled wastes will contribute to the prevention of environmental pollution.
-Importance of Recycling;
+## 📦 RGCA\_Project – Recycling Garbage Collector Application
 
-•	Prevents the reduction of natural resources.
-•	It provides energy saving.
-•	The amount of solid waste to be disposed of is reduced.
-•	Contributes to the economy.
-•	It provides a clean environment for future generations.
-•	It contributes to the reduction of greenhouse gas emissions.
-•	Recycling of domestic wastes by composting method increases the soil yield. Thus, both organic and high nutritional products are obtained.
+### 🗑️ Overview
 
+The **Recycling Garbage Collector Application (RGCA)** is a Java-based project designed to **optimize the collection and management of recyclable waste** within a university campus. This includes identifying optimal garbage bin placements, tracking recyclable materials (such as plastic, paper, glass, and metal), and managing staff assignments for waste collection and transfer points.
+
+This project not only promotes environmental sustainability but also incorporates elements of optimization and resource efficiency through algorithmic logic.
+
+---
+
+### 🎯 Project Goals
+
+* Minimize the environmental impact of improperly managed waste.
+* Optimize the placement of recycling bins and routing of collection operations.
+* Reduce collection time and resource usage with efficient employee assignment.
+* Raise awareness about the environmental and economic value of recycling.
+
+---
+
+### ♻️ Why Recycling Matters
+
+Recycling is a crucial element in sustainable development. Here's why:
+
+* 🌿 **Conservation of Natural Resources**: Recycling reduces the need for raw materials like wood, water, and minerals.
+* ⚡ **Energy Efficiency**: Producing goods from recycled materials often requires significantly less energy.
+* 🏞️ **Environmental Protection**: It minimizes landfills and lowers greenhouse gas emissions.
+* 💰 **Economic Benefits**: It reduces waste management costs and reliance on imported raw materials.
+* 🌍 **Sustainable Future**: Ensures a cleaner, healthier planet for future generations.
+
+**Example Impacts**:
+
+* Recycling 1 ton of paper saves 8 trees.
+* Recycled paper production causes:
+
+  * 74–94% less air pollution,
+  * 35% less water pollution,
+  * 45% less water consumption.
+
+---
+
+### 💡 Features Implemented
+
+* 📍 Location-based bin optimization using predefined criteria.
+* 👷 Employee assignment for efficient waste collection and discharge.
+* 📦 Material type classification and tracking.
+* 🔄 Support for recyclable waste: cardboard, glass, metal, plastic, and paper.
+
+---
+
+### 🛠️ Technologies Used
+
+* **Java** (Core Language)
+* **Object-Oriented Programming (OOP)**
+* **Algorithm Design** (for optimization logic)
+* **File Handling** (for data storage and management)
+
+---
+
+### 📚 Target Audience
+
+This project is developed as part of a **university-level Java course** and is intended for academic evaluation. It demonstrates an integration of environmental awareness with programming and software design skills.
+
+---
+
+### 📌 Conclusion
+
+The RGCA project highlights the importance of integrating software solutions with sustainability goals. By optimizing the waste collection system in educational institutions, it aims to be a model that can be expanded to broader environments such as cities or corporate campuses.
+
+--
+
+## System User Interface
+
+![Login UI](./Screen-03.png)
+![Login UI](./Screen-01.png)
+![Login UI](./Screen-02.png)
+
+---
